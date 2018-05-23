@@ -27,3 +27,5 @@
 <p>Crie um diderório blockchain_privada, acesse o mesmo e rode o comando <b>mkdir chaindata</b> em seguida abra um editor de texto (notepad ++) e copie e cole o código abaixo:</p>
 
 <p><img src="imgs/genesis.png"/></p>
+
+<p><img src="imgs/geth5.png"/></p>
