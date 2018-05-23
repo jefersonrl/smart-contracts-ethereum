@@ -23,3 +23,23 @@
 <p>Após esse processo você deve acessar o diretório C:\Program Files\Geth e rodar o comando <b>geth</b> após esse processo você esta rodando um ethereum node</p>
 
 <p><img src="imgs/geth4.png"/></p>
+
+<p>Crie um diderório blockchain_privada, acesse o mesmo e rode o comando <b>mkdir chaindata em seguida abra um editor de texto (notepad ++) e copie e cole o código abaixo:</p>
+
+<p>{ 
+  "coinbase": "0x0000000000000000000000000000000000000001", 
+  "dificuldade": "0x20000", 
+  "extraData": "", 
+  "gasLimit": "0x2fefd8", 
+  "nonce": "0x0000000000000042", 
+  "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000", 
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000", 
+  "timestamp": "0x00", 
+  "alloc": {}, 
+  "config": { 
+  "chainId": 15, 
+  "homesteadBlock": 0, 
+  "eip155Block": 0, 
+  "eip158Block": 0 
+  } 
+  } </p>
