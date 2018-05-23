@@ -8,4 +8,10 @@
 
 <b>Criando o ambiente:</b>
 
-<p>Para esse processo estou utilizando a plataforma do Microsoft Azure Student com o ambiente Linux Ubuntu Server</p>
+<p>Para esse processo estou utilizando a plataforma do Microsoft Azure Student com o ambiente Linux Ubuntu Server, se você não tem acesso aos serviços do Microsoft Azure você pode utilizar uma máquina virtual (VM) com a distribuição do Linux Ubuntu para seguir os passos abaixo.</p>
+
+<b>Configurando um Nó no Ethereum (ETH)</b>
+
+<p>Um nó é qualquer dispositivo (Smartphone, Computador, Notebook e etc) que faça parte da rede blockchain da rede Ethereum, esses nós podem ser programado em diversas tecnologias, nesse tutorial estarei utilizando a tecnologia GO, antes de começarmos a programação vamos realizar o download da plataforma Geth (https://geth.ethereum.org/downloads/) </p>
+
+<img src="imgs/geth.png" width="350"/>
