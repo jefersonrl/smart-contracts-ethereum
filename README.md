@@ -14,4 +14,4 @@
 
 <p>Um nó é qualquer dispositivo (Smartphone, Computador, Notebook e etc) que faça parte da rede blockchain da rede Ethereum, esses nós podem ser programado em diversas tecnologias, nesse tutorial estarei utilizando a tecnologia GO, antes de começarmos a programação vamos realizar o download da plataforma Geth (https://geth.ethereum.org/downloads/) </p>
 
-<img src="imgs/geth.png"/>
+<p align="center"><img src="imgs/geth.png"/></p>
