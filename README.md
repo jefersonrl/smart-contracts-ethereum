@@ -1,4 +1,4 @@
-<h3>Exemplo de Smart Contract desenvolvido na plataforma Ethereum</h3>
+<center><h3>Exemplo de Smart Contract desenvolvido na plataforma Ethereum</h3></center>
 
 <b>Conceito de contrato inteligente:</b>
 
