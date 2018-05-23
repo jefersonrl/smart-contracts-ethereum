@@ -8,7 +8,7 @@
 
 <b>Criando o ambiente:</b>
 
-<p>Para esse processo estou utilizando a plataforma do Microsoft Azure Student com o ambiente Linux Ubuntu Server, se você não tem acesso aos serviços do Microsoft Azure você pode utilizar uma máquina virtual (VM) com a distribuição do Linux Ubuntu para seguir os passos abaixo.</p>
+<p>Para esse processo estou utilizando a plataforma do Microsoft Azure Student com o ambiente M. Windows, se você não tem acesso aos serviços do Microsoft Azure você pode utilizar uma máquina virtual (VM) com a distribuição do M. Windows de sua esolha e seguir os passos abaixo.</p>
 
 <b>Configurando um Nó no Ethereum (ETH)</b>
 
