@@ -24,6 +24,8 @@
 
 <p><img src="imgs/blockchain_eth.png"/></p>
 
+<p>Esse processo demorou certa de 1,5hs em um máquina com M. Windows 10 no Azure, então tenha muita paciência.</p>
+
 <p><img src="imgs/geth4.png"/></p>
 
 <p>Crie um diderório blockchain_privada, acesse o mesmo e rode o comando <b>mkdir chaindata</b> em seguida abra um editor de texto (notepad ++) e copie e cole o código abaixo:</p>
