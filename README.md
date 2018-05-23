@@ -26,20 +26,4 @@
 
 <p>Crie um diderório blockchain_privada, acesse o mesmo e rode o comando <b>mkdir chaindata em seguida abra um editor de texto (notepad ++) e copie e cole o código abaixo:</p>
 
-{<br> 
-  "coinbase": "0x0000000000000000000000000000000000000001",<br>  
-  "dificuldade": "0x20000",<br>  
-  "extraData": "",<br>  
-  "gasLimit": "0x2fefd8",<br>  
-  "nonce": "0x0000000000000042",<br>  
-  "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",<br>  
-  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",<br>  
-  "timestamp": "0x00",<br>  
-  "alloc": {},<br>  
-  "config": {<br>  
-  "chainId": 15,<br>  
-  "homesteadBlock": 0,<br>  
-  "eip155Block": 0,<br>  
-  "eip158Block": 0 <br> 
-  }<br> 
-  }<br> 
+<p><img src="imgs/genesis.png"/></p>
