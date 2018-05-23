@@ -22,6 +22,8 @@
 
 <p>Após esse processo você deve acessar o diretório C:\Program Files\Geth e rodar o comando <b>geth</b> após esse processo você esta rodando um ethereum node, apenas para informativo nesse momento você esta realizando o download intereiro da rede do blockchain do Ethereum, tenha paciência e espere o término do processo.</p>
 
+<p><img src="imgs/blockchain_eth.png"/></p>
+
 <p><img src="imgs/geth4.png"/></p>
 
 <p>Crie um diderório blockchain_privada, acesse o mesmo e rode o comando <b>mkdir chaindata</b> em seguida abra um editor de texto (notepad ++) e copie e cole o código abaixo:</p>
@@ -29,5 +31,3 @@
 <p><img src="imgs/genesis.png"/></p>
 
 <p><img src="imgs/geth5.png"/></p>
-
-<p><img src="imgs/blockchain_eth.png"/></p>
