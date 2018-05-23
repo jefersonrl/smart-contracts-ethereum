@@ -36,6 +36,6 @@ Agora queremos inicializar nossa rede privada no diretório chaindata usando nos
 
 <p>Agora vamos inicializar a nossa rede privada (Blockchain Ethereum) no diretório chainData usando o arquivo genesis.json, nesse processo vamos informar o Geth que o diretório de dados será o chaindata, então digite o seguinte comando no diretório blockchain_privada</p>
 
-geth --datadir =. / chaindata / init ./genesis.json
+<b>geth --datadir =. / chaindata / init ./genesis.json</b>
 
 
