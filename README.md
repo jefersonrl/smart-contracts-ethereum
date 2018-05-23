@@ -20,4 +20,6 @@
 
 <p align="center"><img src="imgs/geth2.png"/>&nbsp;&nbsp;<img src="imgs/geth3.png"/></p>
 
+<p>Após esse processo você deve acessar o diretório C:\Program Files\Geth e rodar o comando <b>geth</b> após esse processo você esta rodando um ethereum node</p>
+
 <p><img src="imgs/geth4.png"/></p>
