@@ -19,3 +19,5 @@
 <p>Após esse processo você deve realizar a instalação do Geth em sua respectiva máquina</p>
 
 <p align="center"><img src="imgs/geth2.png"/>&nbsp;&nbsp;<img src="imgs/geth3.png"/></p>
+
+<p><img src="imgs/geth4.png"/></p>
