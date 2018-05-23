@@ -26,7 +26,7 @@
 
 <p>Crie um diderório blockchain_privada, acesse o mesmo e rode o comando <b>mkdir chaindata em seguida abra um editor de texto (notepad ++) e copie e cole o código abaixo:</p>
 
-<p>{ 
+{ 
   "coinbase": "0x0000000000000000000000000000000000000001", 
   "dificuldade": "0x20000", 
   "extraData": "", 
@@ -42,4 +42,4 @@
   "eip155Block": 0, 
   "eip158Block": 0 
   } 
-  } </p>
+  }
